@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aplicacion-react-ventas/static/css/main.0956316d.css",
+    "main.js": "/aplicacion-react-ventas/static/js/main.4eecbcbf.js",
+    "static/media/IngenieroEnmanuel.jpg": "/aplicacion-react-ventas/static/media/IngenieroEnmanuel.10961caf9e7bae10613a.jpg",
+    "index.html": "/aplicacion-react-ventas/index.html",
+    "main.0956316d.css.map": "/aplicacion-react-ventas/static/css/main.0956316d.css.map",
+    "main.4eecbcbf.js.map": "/aplicacion-react-ventas/static/js/main.4eecbcbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0956316d.css",
+    "static/js/main.4eecbcbf.js"
+  ]
+}
